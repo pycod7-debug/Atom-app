@@ -1,0 +1,6 @@
+{
+  "name": "Atomic 3D Builder",
+  "description": "A hyperrealistic 3D atomic modeling sandbox with real-time reaction simulations, orbital structures, and complete mathematical formulations behind quantum models in a built-in Math Labs sidebar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
